@@ -1,0 +1,7 @@
+public class BasicJavaTest
+{
+public static void man(String[] args)
+{
+  System.out.println("This is a basic java program that will be added to Github");
+}
+}
