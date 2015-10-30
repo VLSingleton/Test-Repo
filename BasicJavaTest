@@ -3,5 +3,14 @@ public class BasicJavaTest
 public static void man(String[] args)
 {
   System.out.println("This is a basic java program that will be added to Github");
+  printNumbers(10);
+}
+//this is an addition to the original file
+public void printNumbers(int n)
+{
+for(int i=0;i<n;i++)
+{
+System.out.println(i);
+}
 }
 }
